@@ -11,8 +11,8 @@ https://www.youtube.com/watch?v=XQgXKtPSzUI&t=0s&index=2&list=LLgrRgAlce_d0J02aH
 
 University of California, Santa Barbara: PSTAT 135/235, winter quarter 2019
 
-### Explanation
-- Part 1: Webscraping of cars for sale in Skåne, Sweden from private sellers. Scraping is done from Swedish buy and sell site https://www.blocket.se/ using BeautifulSoup.
+### Explanation<
+- Part 1: Webscraping of cars for sale in Skåne, Sweden from private sellers. Scraping is done from Swedish buy and sell site https://www.blocket.se/ using BeautifulSoup. Note: The data is not cleaned neatly and requier more work if it would be used.
 - Part 2: Data preprocessing done using pySpark since I wanted to practice and was not necessary for a data set containing about 2500 rows (scraping done on Jan 26 2019). Visualizations are done using pandas and matplotlib.
 
 #### Note: 
