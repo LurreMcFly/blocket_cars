@@ -8,8 +8,9 @@
 ---
 
 ### Files
-`Webscraping_Cars.ipynb` Webscrapes https://www.blocket.se/ of cars for sale.
-`Blocket_Car_pySpark.ipynb` Contains data exploration using pySpark
+- `Webscraping_Cars.ipynb` Webscrapes https://www.blocket.se/ of cars for sale.
+- `Blocket_Car_pySpark.ipynb` Contains data exploration using pySpark
+- `blocket_carsYYYY-MM-DD.csv` Data scraped at YYYY-MM-DD
 
 
 ### Sources 
